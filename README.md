@@ -33,6 +33,6 @@ A fully functional e-commerce website built with PHP and MySQL.
 1. Place files in `htdocs` folder
 2. Create MySQL database
 3. Update database credentials in config file
-4. Access via `http://localhost/E-Commerce-1-Website-PHP-MYSQL-main`
+4. Access via `http://localhost/E-Commerce`
 
 ## Project Structure
