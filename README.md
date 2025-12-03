@@ -43,7 +43,8 @@ A fully functional e-commerce website built with PHP and MySQL.
 <img width="1415" height="624" alt="image" src="https://github.com/user-attachments/assets/8f25ca4b-716f-4a8b-b032-25037d6ec7f8" />
 <img width="1068" height="348" alt="image" src="https://github.com/user-attachments/assets/a85db111-44d0-4f5e-8879-1094e4c72699" />
 <img width="1416" height="859" alt="image" src="https://github.com/user-attachments/assets/653f445a-a299-4951-bdde-76baf7f1b3c9" />
-
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/f44b8108-3be1-4983-8fe4-2b0f87380a4b" />
+Admin Credational:- Admin/ password:- 12345
 
 
 ## 🚀 Recent Improvements & Security Fixes
