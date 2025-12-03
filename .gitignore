@@ -1,0 +1,21 @@
+# XAMPP and environment
+.htaccess
+.env
+config.php
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+tmp/
+temp/
